@@ -1,0 +1,2 @@
+entrar = document.querySelector('logar');
+
